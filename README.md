@@ -22,7 +22,7 @@ add Tencent player SDK into Unity
 	https://blog.csdn.net/u012703795/article/details/24464837
 
 8. 砍掉一些檔案＆資料夾
-
+```
 檔案
 CustomProcessFilter.m
 superPlayer/ListUI/LiVIdeoCell.m
@@ -36,7 +36,7 @@ common/VideoLoadingController
 third/QBImagePicker
 third/Masonry
 player/superplayer
-
+```
 
 9. Build Setting -> exception
 
