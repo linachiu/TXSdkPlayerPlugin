@@ -40,5 +40,9 @@ player/superplayer
 
 9. Build Setting -> exception
 
-10. 匯入framework  sqliteb3, MobileCoreServices.framework SystemConfiguration.framework
+10. 匯入framework  
+	* Accelerate framework
+	* sqliteb3, 
+	* MobileCoreServices.framework 
+	* SystemConfiguration.framework
 
