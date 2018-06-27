@@ -46,3 +46,5 @@ player/superplayer
 	* MobileCoreServices.framework 
 	* SystemConfiguration.framework
 
+11. 加入麥克風權限
+    加入相機權限
