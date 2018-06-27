@@ -1,7 +1,7 @@
 # TXSdkPlayerPlugin
 add Tencent player SDK into Unity
 
-1. 取其中資料夾 Player,Third, common, app, Resource, Assets.xcassets 
+1. 取其中資料夾 Player,Third, common, app, Resource, Assets.xcassets ,push(推播)
 
 2. 匯入 TXLiteAV_professional.framework （選加入group）
 
@@ -36,6 +36,9 @@ common/VideoLoadingController
 third/QBImagePicker
 third/Masonry
 player/superplayer
+
+資源資料夾
+rescorce/videoedit/裡面的bundel 
 ```
 
 9. Build Setting -> exception
