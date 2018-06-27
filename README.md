@@ -13,7 +13,7 @@ add Tencent player SDK into Unity
 
   增加tag   ENABLE_PLAY 或是有的沒的
 
-6. 加入common, third, Player, app 資料夾（ 選加入group ）
+6. 加入common, third, Player, app 資料夾（ 選加入group 不然不寫絕對路徑讀不到）
 
 7. Build Setting -> Search path -> head search Paths 需要設定
 
@@ -41,13 +41,13 @@ player/superplayer
 rescorce/videoedit/裡面的bundel 
 ```
 
-9. Build Setting -> exception
+9. Build Setting -> exception （try catch)
 
 10. 匯入framework  
-	* Accelerate framework
-	* sqliteb3, 
+	* Accelerate framework （會有一堆８８８８）
+	* sqliteb3, （會說要）sqlite
 	* MobileCoreServices.framework 
 	* SystemConfiguration.framework
 
-11. 加入麥克風權限
+11. 加入麥克風權限 （會閃退）
     加入相機權限
