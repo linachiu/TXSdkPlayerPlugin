@@ -16,3 +16,5 @@
 * common.activity.videopreview/TCVideoPreviewActivity
 * txsdk.common.misc/RoomListViewAdapter
 * push/LivePublisherActivity (import videoupload)
+* push/LivePublisherActivity
+(import com.example.advmedia.txsdk.common.activity.videopreview.TCVideoPreviewActivity;)
