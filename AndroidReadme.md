@@ -17,4 +17,5 @@
 * txsdk.common.misc/RoomListViewAdapter
 * push/LivePublisherActivity (import videoupload)
 * push/LivePublisherActivity
-(import com.example.advmedia.txsdk.common.activity.videopreview.TCVideoPreviewActivity;)
+(import com.example.advmedia.txsdk.common.activity.videopreview.TCVideoPreviewActivity;
+Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class);)
