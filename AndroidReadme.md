@@ -11,3 +11,8 @@
     
 2. 加入ＴＸＳＤＫ
 * compile(name: 'LiteAVSDK_Professional', ext: 'aar')
+
+3. 砍掉一些檔案＆資料夾
+* common.activity.videopreview/TCVideoPreviewActivity
+* txsdk.common.misc/RoomListViewAdapter
+* push/LivePublisherActivity (import videoupload)
