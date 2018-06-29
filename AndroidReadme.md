@@ -19,4 +19,8 @@
 * push/LivePublisherActivity
 (import com.example.advmedia.txsdk.common.activity.videopreview.TCVideoPreviewActivity;
 Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class);)
+* play/LivePlayerActivity
+(import com.example.advmedia.txsdk.common.activity.videopreview.TCVideoPreviewActivity;
+Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class);)
 * play/NewVodPlayerActivity
+* play.wkvideoplayer.view/SuperVideoPlayer
