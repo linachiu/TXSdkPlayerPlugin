@@ -7,6 +7,7 @@
 * compile 'com.squareup.okhttp3:logging-interceptor:3.8.1'
 * compile 'com.github.ctiao:DanmakuFlameMaster:0.5.3'
 * compile 'com.android.support:multidex:1.0.0'
+* compile 'com.android.support.constraint:constraint-layout:1.0.2'
     
 2. 加入ＴＸＳＤＫ
 * compile(name: 'LiteAVSDK_Professional', ext: 'aar')
