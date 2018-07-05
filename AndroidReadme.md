@@ -66,3 +66,6 @@ Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class
 Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class);)
 * play/NewVodPlayerActivity
 * play.wkvideoplayer.view/SuperVideoPlayer
+
+
+3. Unity plugin/Android/資料夾下放入ＳＤＫ.aar
