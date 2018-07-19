@@ -69,3 +69,6 @@ Intent intent = new Intent(getApplicationContext(), TCVideoPreviewActivity.class
 
 
 3. Unity plugin/Android/資料夾下放入ＳＤＫ.aar
+
+4. 在使用的時候發生了 ``` Android.view.InflateException: Binary XML file line ```
+所以在 ``` AndroidManifest ```加上 ``` android:largeHeap="true" ```
